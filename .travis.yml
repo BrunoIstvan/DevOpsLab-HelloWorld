@@ -10,7 +10,7 @@ deploy:
   provider: heroku
   api_key:
     secure: vK38U31hIQ0TDh+ZscTYrJ6lLCxQk8l58EfjvzF4lAsRM3aNhj4KyEHbB+C67M27qMoOosR97ZeacHh8SIq2w/lrfoc88xHQdntB4Wmf4fAzlP5kW6oJIPoRCAddxNytiv67crJSYWy0NC5/4zmuD6m+hIOryUW0j57ZcoIUDN/WUN/40f2ADTs63zwce4OZox478RDsMUnb/pkU5RzJCz6F4SGBmtKX47q765WTR0xPKVtfaJP5mBWlQ0keqIbWmnFTxsqaERUh3jdIROhAr+E8D/wJmtZHJucJHXeML75suiHrLh/5Zn+YDgOu19UlLfQ4+Ozy8GFax6b3qJwJ8pZ0JwuyhZN44I4ESOnI0Pti81qYXnDT6++RyLltmKpAGD5QrlLkw68EL5s5SFnKTrCYi/sYlG7MtdXEdHoSkJlnd8KlJKYEe32qViJdxtcZOtlktmRyJ+dhlYOemDhJM3+nZTYXdsVAVjZClTg2W64Nm0PyQbD3T7z/GXYuvN9w/LJnhDAEBbwR5tQpwEn5c5zNBfcx0S3bz1SfefuHGfQ6scQ2Euq1gOWk2ljHD1DKy6nUCDxgaGmWNA6Cb2b7JjP+He8YbMu/3Cs+Zn2yNIwF8UfOXcHDO+Ujqmxa1ZLl12wKJEKLHpiJEuRIOTKy9/skn/gDcuyUOAR7+oyKFto=
-  app: DevOpsLab-HelloWorld
+  app: devops-helloworld-brunoistvan
   on:
     repo: BrunoIstvan/DevOpsLab-HelloWorld
   skip_cleanup: 'true'
