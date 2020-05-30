@@ -10,7 +10,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: $HEROKU_API_KEY
+    secure: pQyI0U4adrjc78zNktHE+L3cUmFQtKk9GpdsOX+XFmJ0HFBJYZ9kbxFK+Nqe5W5mt5oJvTBSJVBalaQI0fw+dY2BHoCR5OsSjnoeQO5y2cQmVefxsGkGctqm121AC0Vn/6gG8PogYjk8lVG+ItthkL7NDSWF25RG8URIVddfZ7MkztpHw4lJHVZJdmThQR+Tz4y1tWPGMNI65YtV/IfMoxusaMYnY/ObJSeAjgruSfdUbMe5ZyDjPJ0MfjtTyy5V5u5YRBk72fgowWMOgRC+baNIzohh0eb0MsWMpdalGtZXpLm9JBGD/z19Zt8ZJ2TcXfKQzX4X0vt/oooETele/e6p6TbVJKAI0ejOfw+MI+nLpa+6B6/3qECHgd+r4/Xxdrsz+DnzLQa8II45SM9hz0AXCvdv0ckZ4p4PHIJOmw99FHkyMp+JL1JGXDTHtTuovA9zgJPOsSxpIJXUR+DvRVCJ2dmLvn5B1CfIwIkJ7aNT4Hh4TilZdMLmw0nPbtxWlumUuMgPtWTrMPLHEKUIwWyyyPhcengVcDswLZu3ef+LF36s/aAwfXz4ZDTjg7OAS8N2iK9GF3xAFzL3YBWeAD0j52s73CRgmlYvkdb6fHDW0vOGv1I9BE1q8OJqvSIPmv178vGywD0RIgCUMmaueRZtHc1yVmaPnpWh5IcK6uU=
   app: devops-brunoistvan
   on:
     repo: BrunoIstvan/DevOpsLab-HelloWorld
